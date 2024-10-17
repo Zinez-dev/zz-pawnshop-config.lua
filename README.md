@@ -18,7 +18,6 @@ The ZZ-PawnShop script allows players to manage and operate their own pawn shop 
 
 ## 🛠️ Requirements
 - `dependencies { 'ox_lib' }`
-- `dependencies { 'discord-webhook' }` *(if using a specific library for Discord)*
 
 ## 💲 Pricing
 **Price:** $9.99
